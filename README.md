@@ -3,4 +3,4 @@ This is the official implementation of the AI3608 Spring Project **VR Pacman**. 
 
 ## 🎈 Downloads
 - [Download our video demo](https://jbox.sjtu.edu.cn/l/u1jjz4)
-- [Download our project](https://jbox.sjtu.edu.cn/l/e1epLa)
+- [Download the source code of our project](https://jbox.sjtu.edu.cn/l/e1epLa)
