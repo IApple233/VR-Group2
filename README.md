@@ -7,7 +7,18 @@ This is the official implementation of the AI3608 Spring Project **VR Pacman**. 
 
 ## 📚 Introduction
 
-This project is a VR version of the Pacman game. Players need to transport a certain number of objects to designated locations within a maze while avoiding capture by ghosts. Please note that if players are captured by ghosts or move outside the boundaries of the maze, the game will end in failure.
+This project is a VR version of the Pacman game. The player need to transport a certain number of objects to designated locations within a maze while avoiding capture by ghosts. Please note that if players are captured by ghosts or move outside the boundaries of the maze, the game will end in failure.
+
+## 📺 Game Features
+
+- A top-down mini-map located in the upper right corner that follows the player.
+- Implement ghost navigation to automatically pathfind through the maze and capture the player.
+- A timer that records the player's survival time.
+- Player interaction with objects distributed throughout the maze.
+
+<div align="center">
+    <img src='__assets__/feature.png'/>
+</div>
 
 ## 🎈 Downloads
 - [Download our video demo](https://jbox.sjtu.edu.cn/l/u1jjz4)
