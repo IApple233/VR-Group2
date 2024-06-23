@@ -1,4 +1,4 @@
-# VR-Group2
+# VR-Pacman
 This is the official implementation of the AI3608 Spring Project **VR Pacman**. The project is completed by Group 2.
 
 ## 🎈 Downloads
