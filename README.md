@@ -23,3 +23,8 @@ This project is a VR version of the Pacman game. The player need to transport a 
 ## 🎈 Downloads
 - [Download our video demo](https://jbox.sjtu.edu.cn/l/u1jjz4)
 - [Download the source code of our project](https://jbox.sjtu.edu.cn/l/e1epLa)
+
+- ## Contact Us
+- **Xiangyuan Xue**: [xxyqwq@qq.com](mailto:xxyqwq@qq.com)
+- **Jiazi Bu**: [bujiazi001@sjtu.edu.cn](mailto:bujiazi@sjtu.edu.cn)
+
