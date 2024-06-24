@@ -29,3 +29,4 @@ This project is a VR version of the Pacman game. The player need to transport a 
 - **Jiazi Bu**: [bujiazi001@sjtu.edu.cn](mailto:bujiazi@sjtu.edu.cn)
 - **Hanglei Zhang**: [op.131@sjtu.edu.cn](mailto:op.131@sjtu.edu.cn)
 - **Zhulin Hu**: [kenny1004@sjtu.edu.cn](mailto:kenny1004@sjtu.edu.cn)
+- **Qirui Li**: [iapple1@sjtu.edu.cn](mailto:iapple1@sjtu.edu.cn)
